@@ -35,7 +35,7 @@
      - Change the menu or restaurant link dynamically.
 
      - View and export a summary of food orders for each day.
-     - 
+     
 
 2. Custom Restaurant Management
 
